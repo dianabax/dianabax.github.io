@@ -5,14 +5,14 @@ baseurl: "" #leave blank
 url: "https://dianabax.github.io" #update elijahcantu to be your github username.
 
 # Profile
-headshot: headshot.jpg
+headshot: IMG_8021.jpg
 bio: "I am a graduate student at the University of Michigan School of Information in the Libraries, Archives, and Knowledge Environments in Society (LAKES) pathway."
 
 # Social — just set usernames / email / filename; nav + footer buttons are generated automatically
 # for the following remove or leave blank to hide the corresponding nav/footer buttons
-github: elijahcantu #username (what comes after github.com/<username>)
-linkedin: elijahcantu #username (what comes after linkedin.com/in/<username>)
-email: caelijah@umich.edu
+github: dianabax #username (what comes after github.com/<username>)
+linkedin: diana-baxter #username (what comes after linkedin.com/in/<username>)
+email: dianabax@umich.edu
 cv_label: "Resume" # "CV" or "Resume" — used in nav button tooltip, aria-label, and footer link text
 cv_pdf: "example-resume.pdf" #filename of cv/resume, its best if you dont have spaces in the filename but if you do, make sure to include them here and in the actual filename in the root directory. This should be a PDF file.
 
