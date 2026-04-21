@@ -5,7 +5,7 @@ baseurl: "" #leave blank
 url: "https://dianabax.github.io" #update elijahcantu to be your github username.
 
 # Profile
-headshot: IMG_8021.jpg
+headshot: IMG_8021.jpeg
 bio: "I am a graduate student at the University of Michigan School of Information in the Libraries, Archives, and Knowledge Environments in Society (LAKES) pathway."
 
 # Social — just set usernames / email / filename; nav + footer buttons are generated automatically
