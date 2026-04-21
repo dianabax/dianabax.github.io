@@ -1,12 +1,12 @@
-title: Elijah Cantu
-description: Elijah Cantu
-author: Elijah Cantu
+title: Diana Baxter
+description: Diana Baxter
+author: Diana Baxter
 baseurl: "" #leave blank
-url: "https://elijahcantu.github.io" #update elijahcantu to be your github username.
+url: "https://dianabax.github.io" #update elijahcantu to be your github username.
 
 # Profile
 headshot: headshot.jpg
-bio: "I am a graduate student at the University of Michigan School of Information on a full-tuition scholarship. I earned my undergraduate degree in Computer Science at Michigan's College of Engineering on a full ride."
+bio: "I am a graduate student at the University of Michigan School of Information in the Libraries, Archives, and Knowledge Environments in Society (LAKES) pathway."
 
 # Social — just set usernames / email / filename; nav + footer buttons are generated automatically
 # for the following remove or leave blank to hide the corresponding nav/footer buttons
